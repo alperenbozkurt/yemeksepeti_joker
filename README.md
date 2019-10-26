@@ -7,6 +7,7 @@ Uygulama Ruby dilinde selenium web framework kullanılarak yazılmıştır.
 ### Kurulum
 
 - Sistemde Ruby kurulu olmalıdır. (2.6.3 sürümü önerilir)
+Eğer sisteminizde ruby kurulu değilse [Ruby Kurulumu](https://alperenbozkurt.net/Ruby-ve-rails-kurulumu/) isimli blog yazımı ziyareft edebilirsiniz.
 
 - Selenium Webdriver gem kurulu olmalıdır.
 `gem install selenium-webdriver` komutu ile gerekli gem yüklenmelidir.
