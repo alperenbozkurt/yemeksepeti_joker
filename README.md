@@ -1,4 +1,4 @@
-# Yemeksepeti Joker Tutturucu
+# Yemeksepeti Joker Yakalayıcı
 
 Bu betik dosyası yemeksepeti sitesinde joker bulmak için yazılmış bir uygulamadır. Uygulama Joker bulana kadar websitesinde gezinerek joker çıkmasını bekler. Joker çıktığında ise işlem yapılması için bekler.
 
