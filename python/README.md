@@ -22,6 +22,5 @@ Eğer sisteminizde Python3 kurulu değilse [Python Kurulumu](https://www.python.
 ```
 
 ### Çalıştırma
-
-- Uygulamayı `python joker.py email@email.com password elazig firat-universitesi-merkez-kampus` komutu ile çalıştırabilirsiniz.
+ ```python joker.py email@email.com password elazig firat-universitesi-merkez-kampus``` 
 
